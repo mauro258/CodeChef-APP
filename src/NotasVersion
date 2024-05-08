@@ -1,0 +1,10 @@
+<!-- Vercion.0 - Jona
+- Cree carpetas que se usaron en los tutoriales
+- Se introdujo al index.html -> Bootstrap // Diseño
+- Se introdujo al index.html -> FontAweisome // icons
+
+- Se instalo React Router -> npm install react-router-dom localforage match-sorter sort-by // Para hacer el navbar
+- Se Instalo Axios -> npm i axios // Para manejar el backend y las rutas como postman
+-------------------------------------------------------------------------------------->
+
+<!--  -->

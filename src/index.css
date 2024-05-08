@@ -1,0 +1,19 @@
+body:before{
+    display: block;
+    content: "";
+    height: 60px;
+}
+body {
+background-color: #111111;
+}
+
+.card:hover{
+    transform: scale(1.04);
+    transition: 0.3s;
+}
+
+
+/* .card{
+    background-color:#002507;
+    
+} */
